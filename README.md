@@ -4,4 +4,4 @@
     <img src="./screenshot.png" alt="Volatility Bands">
 </div>
 
-This is essentially a Keltner Channel. It uses an EMA that shows the ATR and two outer bands.
+Volatility Bands extends the concept of Keltner Channels by incorporating three pairs of bands calculated using ATR and EMA. These include standard ATR bands, customizable offset bands, and additional outer bands for extended volatility analysis.
